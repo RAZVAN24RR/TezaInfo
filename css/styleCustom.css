@@ -1,0 +1,32 @@
+#paragraf_init {
+  width: 100%;
+  font-size: 18px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+  margin-top: 24px !important;
+}
+.slider1 {
+  width: 100%;
+}
+.titluPortocaliu {
+  color: #fd7e14;
+  font-weight: 900;
+}
+
+.sectiunefarapadding {
+  padding-top: 0px !important;
+}
+.LinkOrange {
+  color: #fd7e14;
+}
+.footerautor {
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: #222222;
+  padding: 20px;
+
+  margin-bottom: 0 !important;
+  bottom: 0;
+}
